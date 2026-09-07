@@ -88,62 +88,36 @@ My work focuses on **TypeScript, Node.js, NestJS, React, Python, cloud infrastru
 ## Selected Engineering Experience
 
 ### AI & MCP
+
 Built an **MCP server integrated with Claude AI** for fleet-management operations, including customer, driver, truck, dispatcher, and AI-assisted workflows.
 
 ### Microservices & Queues
+
 Built microservice-based systems and message-queue workflows for **AI content generation and Shopify synchronization**, improving processing efficiency by **35%**.
 
 ### APIs & Performance
+
 Optimized REST APIs and SQL/NoSQL queries, reducing data-retrieval latency by **25%**.
 
 ### gRPC & Hardware Integration
+
 Developed **gRPC endpoints** for instrument integration and implemented BLE communication between mobile applications and hardware devices.
 
 ### Real-Time Systems
+
 Built socket-based messaging and real-time data synchronization for operational and user-facing workflows.
 
 ### Cloud & Scalability
+
 Designed containerized microservices with auto-scaling strategies to improve reliability and system availability.
 
 ---
 
-## GitHub Stats
+## GitHub Metrics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zeddspear&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Zeeshan's GitHub stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeddspear&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-</div>
-
----
-
-## Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=zeddspear&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeddspear&theme=tokyonight" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=zeddspear&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%" alt="GitHub trophies"/>
+<img src="./github-metrics.svg" width="100%" alt="Zeeshan Ahmed GitHub Metrics"/>
 
 </div>
 
@@ -159,9 +133,9 @@ const zeeshan = {
     "AI Engineering",
     "Microservices",
     "Cloud Architecture",
-    "System Design"
+    "System Design",
   ],
-  currentlyBuilding: "Scalable systems that solve real problems"
+  currentlyBuilding: "Scalable systems that solve real problems",
 };
 ```
 
